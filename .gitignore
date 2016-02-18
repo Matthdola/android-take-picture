@@ -12,6 +12,11 @@
 bin/
 gen/
 
+take_picture/bin/
+take_picture/obj/
+packages/
+
+
 # Gradle files
 .gradle/
 build/
